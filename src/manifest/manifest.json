@@ -29,6 +29,11 @@
       "canUpdateConfiguration": true,
       "scopes": [
         "groupchat"
+      ],
+      "context": [
+        "meetingChatTab",
+        "meetingDetailsTab",
+        "meetingSidePanel"
       ]
     }
   ],
