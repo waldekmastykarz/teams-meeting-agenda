@@ -6,7 +6,7 @@ TODO: Add your documentation here
 
 ## Getting started with Microsoft Teams Apps development
 
-Head on over to [Microsoft Teams official documentation](https://developer.microsoft.com/en-us/microsoft-teams) to learn how to build Microsoft Teams Tabs or the [Microsoft Teams Yeoman generator Wiki](https://github.com/PnP/generator-teams/wiki) for details on how this solution is set up.
+Head on over to [Microsoft Teams official documentation](https://developer.microsoft.com/microsoft-teams?WT.mc_id=m365-0000-wmastyka) to learn how to build Microsoft Teams Tabs or the [Microsoft Teams Yeoman generator Wiki](https://github.com/PnP/generator-teams/wiki) for details on how this solution is set up.
 
 ## Project setup
 
